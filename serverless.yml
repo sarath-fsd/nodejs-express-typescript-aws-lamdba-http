@@ -1,0 +1,13 @@
+service: nodejs-aws-lambda-api
+frameworkVersion: '3'
+
+provider:
+  name: aws
+  runtime: nodejs18.x
+
+functions:
+  book-api:
+    handler: dist/handler.handler
+    events:
+      - http: ANY /
+      - http: ANY /{proxy+}
