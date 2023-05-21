@@ -1,4 +1,4 @@
-# nestjs-express-typescript-aws-lamdba-http
+# nodejs-express-typescript-aws-lamdba-http
 
 ## Description
 
@@ -66,8 +66,8 @@ $ serverless deploy
 
 After successfully running above steps, AWS endpoints diplayed in the terminal as below.
 
-ANY - https://****\*\*****.execute-api.us-east-1.amazonaws.com/dev
+ANY - https://\***\*\*\*\*\***.execute-api.us-east-1.amazonaws.com/dev
 
-Copy the command and try to access the endpoint either in the browser or postman
+Copy the url and try to access the endpoint either in the browser or postman
 
-https://****\*\*****.execute-api.us-east-1.amazonaws.com/dev/v1/books
+https://\***\*\*\*\*\***.execute-api.us-east-1.amazonaws.com/dev/v1/books
