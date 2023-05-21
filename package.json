@@ -11,15 +11,15 @@
     "serverless",
     "typescript"
   ],
-  "homepage": "https://github.com/sarath-fsd/nestjs-express-typescript-aws-lamdba-http#readme",
+  "homepage": "https://github.com/sarath-fsd/nodejs-express-typescript-aws-lamdba-http#readme",
   "author": "Sarath Chandra <sarathkammari1987+git@gmail.com> (https://github.com/sarath-fsd)",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sarath-fsd/nestjs-express-typescript-aws-lamdba-http.git"
+    "url": "git+https://github.com/sarath-fsd/nodejs-express-typescript-aws-lamdba-http.git"
   },
   "bugs": {
-    "url": "https://github.com/sarath-fsd/nestjs-express-typescript-aws-lamdba-http/issues"
+    "url": "https://github.com/sarath-fsd/nodejs-express-typescript-aws-lamdba-http/issues"
   },
   "scripts": {
     "start": "ts-node server.ts",
